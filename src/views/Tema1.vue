@@ -194,7 +194,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/title-icon.png")
         h3.titulo-con-imagen__texto Aspectos que influyen en el potencial de conversión 
 
-    .row.justify-content-center.mb-5.z-2.align-items-stretch
+    .row.justify-content-center.mb-4.z-2.align-items-stretch
       .col-sm-8.col-lg-6.col-xl-4.mb-4
         .bg-primario-p5.rounded-4.shadow-sm.p-4.py-3.h-100
           .row.justify-content-center.align-items-center

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Segmentación de mercados
+      h1 #[em Buyer persona]
 
 
 

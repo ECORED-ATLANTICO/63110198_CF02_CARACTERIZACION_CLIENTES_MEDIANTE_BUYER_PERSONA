@@ -166,7 +166,7 @@
             .col-sm-8.col-lg-8
               p A continuación, lo invitamos a consultar el siguiente pódcast:
               TarjetaAudio.mb-3(
-                texto="Actuar, verificar y mejorar: seguimiento de brotes en entornos penitenciarios"
+                texto="Técnicas de prospección estratégica"
                 tiempo
                 :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
@@ -180,7 +180,7 @@
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/18.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
               h5 Reflexión del capítulo.  
-              p.mb-0 La prospectación es más efectiva cuando el contacto con los clientes potenciales se fundamenta en la escucha, la oportunidad y la construcción de confianza. Cada interacción representa una oportunidad para fortalecer la relación comercial y avanzar hacia decisiones que beneficien tanto a la organización como al cliente. 
+              p.mb-0 La toma de decisiones comerciales exige analizar la información con objetividad y actuar de manera coherente con los objetivos de la organización. Priorizar estratégicamente a los clientes potenciales permite optimizar los recursos disponibles, fortalecer las relaciones comerciales y construir resultados sostenibles a largo plazo. 
 
 </template>
 
