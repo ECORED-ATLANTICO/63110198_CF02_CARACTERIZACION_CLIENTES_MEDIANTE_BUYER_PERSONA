@@ -2,13 +2,13 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. 
-    
+    p El Componente Formativo #[strong Perfilamiento estratégico] ofrece al aprendiz los conocimientos necesarios para comprender el proceso de prospectación comercial, identificar oportunidades de negocio y aplicar criterios para calificar y priorizar prospectos. Asimismo, desarrolla conceptos relacionados con el #[em lead scoring], el embudo de conversión y las técnicas de prospectación, proporcionando fundamentos para analizar clientes potenciales y orientar las acciones comerciales de acuerdo con las necesidades organizacionales y las características del mercado. 
+    p.mb-5 Además, el componente aborda las metodologías para construir #[em buyer persona] y analizar las variables que conforman el perfil del cliente potencial, integrando aspectos demográficos, motivacionales, conductuales y psicográficos. Estos conocimientos permiten fortalecer la toma de decisiones comerciales, diseñar estrategias de relacionamiento más pertinentes y comprender las necesidades, expectativas y comportamientos de los clientes potenciales para apoyar procesos de #[em marketing] y ventas con un enfoque estratégico.
 
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-12
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img.mb-5(src="@/assets/curso/sintesis.svg", alt="El componente formativo Perfilamiento estratégico,  aborda la prospectación comercial, calificación y priorización de prospectos, lead scoring, embudo de conversión y construcción del buyer persona como fundamentos para analizar clientes potenciales y orientar decisiones y estrategias comerciales.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
