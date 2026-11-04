@@ -17,7 +17,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/tema7/2.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Estas metodologías permiten organizar los datos recopilados, identificar patrones de comportamiento y representar las características más relevantes del cliente ideal. Su aplicación favorece la elaboración de perfiles consistentes que apoyan la toma de decisiones en marketing, comunicación y ventas. 
+        p.mb-0 Estas metodologías permiten organizar los datos recopilados, identificar patrones de comportamiento y representar las características más relevantes del cliente ideal. Su aplicación favorece la elaboración de perfiles consistentes que apoyan la toma de decisiones en #[em marketing], comunicación y ventas. 
 
     separador
     #t_7_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -25,7 +25,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-7
-        p La estructura de una metodología de buyer persona corresponde a la organización de los elementos que conforman el perfil del cliente potencial. Aunque cada organización puede adaptar esta estructura a sus necesidades, generalmente incluye información relacionada con la identificación del perfil, las características generales del cliente, sus motivaciones, objetivos, necesidades, dificultades y comportamientos durante el proceso de compra.  
+        p La estructura de una metodología de #[em buyer persona] corresponde a la organización de los elementos que conforman el perfil del cliente potencial. Aunque cada organización puede adaptar esta estructura a sus necesidades, generalmente incluye información relacionada con la identificación del perfil, las características generales del cliente, sus motivaciones, objetivos, necesidades, dificultades y comportamientos durante el proceso de compra.  
         .bg-primario-p5.p-4.rounded-4.py-3
           p.mb-0 Una estructura organizada facilita el análisis de la información y permite que diferentes áreas de la organización utilicen el mismo referente para diseñar estrategias comerciales y de comunicación,  asimismo, favorece la actualización del perfil cuando cambian las condiciones del mercado o evolucionan las necesidades de los clientes. En el ejemplo del acápite “7.5 Representación de arquetipos” podrá ver también, como la estructura definida conduce a la presentación de la información de dicho ejemplo. 
       .col-sm-8.col-lg-5
@@ -51,7 +51,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema7/4.png", alt="" data-aos="zoom-in-down")
       .col-lg-9
-        p Los componentes del buyer persona corresponden a los elementos específicos que describen al cliente potencial, cada componente aporta información que permite comprender diferentes dimensiones del perfil y facilita la elaboración de estrategias comerciales centradas en las necesidades del cliente.  
+        p Los componentes del #[em buyer persona] corresponden a los elementos específicos que describen al cliente potencial, cada componente aporta información que permite comprender diferentes dimensiones del perfil y facilita la elaboración de estrategias comerciales centradas en las necesidades del cliente.  
         .bg-terciario-t5.p-4.rounded-4.py-3
           p.mb-0 Entre los componentes más utilizados se encuentran los datos generales, las características demográficas, la actividad laboral, las motivaciones, los objetivos, las frustraciones, los hábitos de consumo, los canales de comunicación preferidos y los criterios que influyen en la decisión de compra. La integración de estos elementos proporciona una visión amplia y coherente del cliente ideal. 
 
@@ -105,9 +105,9 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema7/6.png", alt="" data-aos="zoom-in-down")
       .col-lg-7
-        p Las variables de análisis corresponden a los aspectos que se examinan para comprender el comportamiento y las características del cliente potencial durante la construcción del buyer persona, estas variables permiten recopilar información organizada y comparable, facilitando la elaboración de perfiles que reflejen las necesidades y expectativas del mercado objetivo.
+        p Las variables de análisis corresponden a los aspectos que se examinan para comprender el comportamiento y las características del cliente potencial durante la construcción del #[em buyer persona], estas variables permiten recopilar información organizada y comparable, facilitando la elaboración de perfiles que reflejen las necesidades y expectativas del mercado objetivo.
         .bg-contenido-a10.p-4.rounded-4.py-3
-          p.mb-0 Las organizaciones pueden definir diferentes variables según sus objetivos comerciales; sin embargo, es recomendable integrar información relacionada con aspectos demográficos, motivacionales, conductuales, psicográficos y comerciales; el análisis conjunto de estas variables proporciona una visión más completa del cliente potencial y contribuye a fundamentar las decisiones de marketing y ventas. 
+          p.mb-0 Las organizaciones pueden definir diferentes variables según sus objetivos comerciales; sin embargo, es recomendable integrar información relacionada con aspectos demográficos, motivacionales, conductuales, psicográficos y comerciales; el análisis conjunto de estas variables proporciona una visión más completa del cliente potencial y contribuye a fundamentar las decisiones de #[em marketing] y ventas. 
 
     .row.justify-content-center.mb-4.z-2.align-items-stretch
       .col-sm-8.col-lg-6.col-xl-4.mb-4
@@ -183,14 +183,14 @@
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
               h5 Ejemplo aplicado. 
-              p #[strong NovaMarket S.A.S.] recopila información proveniente de entrevistas, formularios digitales, registros del CRM y analítica web. Posteriormente, el equipo de marketing identifica características comunes entre los clientes potenciales y construye perfiles que describen sus objetivos, motivaciones, necesidades y hábitos de compra, estos perfiles sirven como referencia para el diseño de campañas comerciales y contenidos especializados.
+              p #[strong NovaMarket S.A.S.] recopila información proveniente de entrevistas, formularios digitales, registros del CRM y analítica web. Posteriormente, el equipo de #[em marketing] identifica características comunes entre los clientes potenciales y construye perfiles que describen sus objetivos, motivaciones, necesidades y hábitos de compra, estos perfiles sirven como referencia para el diseño de campañas comerciales y contenidos especializados.
 
     .titulo-con-imagen.mb-5.z-2(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/title-icon.png")
-        h3.titulo-con-imagen__texto Proceso para construir un buyer persona
+        h3.titulo-con-imagen__texto Proceso para construir un #[em buyer persona]
 
-    p.mb-5 La construcción de un buyer persona requiere organizar e interpretar información sobre el cliente hasta convertirla en un perfil representativo. Recorra cada etapa del proceso. 
+    p.mb-5 La construcción de un #[em buyer persona] requiere organizar e interpretar información sobre el cliente hasta convertirla en un perfil representativo. Recorra cada etapa del proceso. 
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-sm-6.col-lg-4.d-none.d-lg-block
@@ -213,7 +213,7 @@
               p.mb-0 Reconocer tendencias, coincidencias y comportamientos comunes entre los datos analizados que permitan comprender mejor al grupo de clientes. 
             div
               h5.mb-4 Construir el perfil 
-              p.mb-0 Integrar la información relevante para definir las características, necesidades, motivaciones y comportamientos que representan al buyer persona. 
+              p.mb-0 Integrar la información relevante para definir las características, necesidades, motivaciones y comportamientos que representan al #[em buyer persona]. 
 
     .bg-contenido-a10.p-4.rounded-4.py-3
       p.mb-0 Este proceso permite transformar datos dispersos en un perfil estructurado que facilita la comprensión del cliente y orienta las decisiones comerciales. 
@@ -224,10 +224,10 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-9
-        p La representación de arquetipos consiste en sintetizar la información obtenida durante el proceso de construcción del buyer persona para crear perfiles que representen a los principales grupos de clientes potenciales de una organización.  
+        p La representación de arquetipos consiste en sintetizar la información obtenida durante el proceso de construcción del #[em buyer persona] para crear perfiles que representen a los principales grupos de clientes potenciales de una organización.  
         .bg-contenido-a5.p-4.rounded-4.py-3.mb-3
           p.mb-0 Cada arquetipo reúne las características, comportamientos, motivaciones y necesidades más representativas de un segmento específico, facilitando su comprensión y utilización en la planeación comercial. Los arquetipos no corresponden a personas reales, sino a modelos construidos a partir del análisis de información recopilada mediante diferentes fuentes.  
-        p.mb-0 Su representación permite que las áreas de marketing, ventas y servicio al cliente compartan una visión común sobre los perfiles que atiende la organización, favoreciendo la coherencia de las estrategias comerciales y de comunicación. 
+        p.mb-0 Su representación permite que las áreas de #[em marketing], ventas y servicio al cliente compartan una visión común sobre los perfiles que atiende la organización, favoreciendo la coherencia de las estrategias comerciales y de comunicación. 
       .col-sm-6.col-lg-3
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema7/10.png", alt="")
@@ -237,7 +237,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/title-icon.png")
         h3.titulo-con-imagen__texto Conozca a María, un ejemplo de #[em buyer persona]
 
-    p Un buyer persona integra información que permite representar de manera estructurada a un cliente potencial.  
+    p Un #[em buyer persona] integra información que permite representar de manera estructurada a un cliente potencial.  
     p.mb-5 Explore el perfil de María Gómez y reconozca cómo sus características, motivaciones, necesidades y comportamientos aportan información para orientar las decisiones comerciales.  
 
     .row.justify-content-center.align-items-center.z-2.mb-5
@@ -296,7 +296,7 @@
               li 
                 p.mb-0 Herramientas digitales de diseño eficientes y actualizadas. 
               li 
-                p.mb-0 Capacitación en tendencias de diseño y marketing digital. 
+                p.mb-0 Capacitación en tendencias de diseño y #[em marketing] digital. 
               li 
                 p.mb-0 Información clara sobre herramientas y recursos para su trabajo. 
               li 
@@ -326,11 +326,11 @@
           div(numero="5" titulo="Canales de información")
             p.mb-1 María utiliza principalmente: 
             p.mb-1 Instagram · YouTube · LinkedIn · Comunidades en línea · Blogs de diseño 
-            p.mb-0 #[strong Clave de análisis:] identificar los canales utilizados por el buyer persona ayuda a determinar dónde y cómo establecer la comunicación comercial. 
+            p.mb-0 #[strong Clave de análisis:] identificar los canales utilizados por el #[em buyer persona] ayuda a determinar dónde y cómo establecer la comunicación comercial. 
           div(numero="6" titulo="Aplicación comercial")
             h5 Mensaje clave para María 
             p.mb-1 “Te ayudamos a ahorrar tiempo y potenciar tu creatividad con herramientas y recursos diseñados para profesionales como tú”. 
-            p.mb-1 #[strong Uso del perfil:] este buyer persona puede servir como referente para orientar estrategias de marketing, comunicación y desarrollo de productos relacionadas con sus características y necesidades. 
+            p.mb-1 #[strong Uso del perfil:] este #[em buyer persona] puede servir como referente para orientar estrategias de #[em marketing], comunicación y desarrollo de productos relacionadas con sus características y necesidades. 
             p.mb-0 #[strong Actualización:] el perfil debe revisarse periódicamente o cuando se identifiquen cambios relevantes en sus necesidades o en el mercado. 
 
     .bg-contenido-a10.p-4.rounded-4.py-3.mb-5
@@ -345,7 +345,7 @@
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/18.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
               h5 Reflexión del capítulo.  
-              p.mb-0 Conocer al cliente no consiste en imaginar quién es, sino en comprenderlo a partir de la información que revela su realidad. Las metodologías de buyer persona permiten transformar datos en conocimiento útil para la toma de decisiones comerciales. Cuando los perfiles se construyen con información objetiva y representan adecuadamente a los clientes potenciales, las organizaciones fortalecen su capacidad para establecer relaciones más pertinentes y generar propuestas de valor alineadas con las necesidades del mercado. 
+              p.mb-0 Conocer al cliente no consiste en imaginar quién es, sino en comprenderlo a partir de la información que revela su realidad. Las metodologías de #[em buyer persona] permiten transformar datos en conocimiento útil para la toma de decisiones comerciales. Cuando los perfiles se construyen con información objetiva y representan adecuadamente a los clientes potenciales, las organizaciones fortalecen su capacidad para establecer relaciones más pertinentes y generar propuestas de valor alineadas con las necesidades del mercado. 
 
 
 

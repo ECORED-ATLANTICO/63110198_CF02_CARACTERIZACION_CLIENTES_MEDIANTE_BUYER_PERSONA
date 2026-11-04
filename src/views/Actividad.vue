@@ -19,10 +19,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Reconociendo el mercado y los clientes potenciales.',
+      tema: 'Prospectación comercial y <em>buyer persona</em>.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> verificar la comprensión de los conceptos, principios y procesos relacionados con el comportamiento del consumidor, la identificación de clientes potenciales, la segmentación de mercados, el mercado objetivo, la prospectación comercial y la estrategia comercial, mediante la resolución de un cuestionario de selección múltiple con única respuesta.',
+        '<b> Objetivo:</b> verificar la comprensión de los conceptos, metodologías y herramientas relacionadas con la prospectación comercial, la calificación de prospectos y la construcción del <em>buyer persona</em> mediante la resolución de preguntas de selección múltiple con única respuesta.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -30,28 +30,31 @@ export default {
         {
           id: 1,
           texto:
-            '¿Qué analiza el comportamiento del consumidor durante la compra?',
+            '¿Cuál es el propósito principal de la prospectación comercial?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'El proceso de decisión del cliente.',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'La estructura organizacional de la empresa.',
+              texto:
+                'Diseñar campañas publicitarias masivas para nuevos mercados.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto:
+                'Identificar clientes potenciales con oportunidades comerciales reales.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'Los estados financieros del negocio.',
+              texto:
+                'Elaborar presupuestos financieros para proyectos empresariales.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'La distribución física del producto.',
+              texto: 'Organizar inventarios según disponibilidad de productos.',
               esCorrecta: false,
             },
           ],
@@ -60,28 +63,30 @@ export default {
         },
         {
           id: 2,
-          texto: '¿Qué caracteriza principalmente a un cliente potencial?',
+          texto: '¿Qué permite establecer la calificación de prospectos?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Haber realizado varias compras anteriormente.',
-              esCorrecta: false,
+              texto:
+                'Priorizar oportunidades según criterios previamente definidos.',
+              esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Presentar afinidad con la oferta comercial.',
+              texto: 'Determinar precios finales para nuevos productos.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Poseer características compatibles con la organización.',
-              esCorrecta: true,
+              texto: 'Elaborar cronogramas para campañas institucionales.',
+              esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Administrar una organización comercial.',
+              texto:
+                'Controlar existencias durante procesos logísticos comerciales.',
               esCorrecta: false,
             },
           ],
@@ -90,29 +95,29 @@ export default {
         },
         {
           id: 3,
-          texto: '¿Cuál es el propósito de categorizar clientes potenciales?',
+          texto: '¿Qué evalúa principalmente el potencial de conversión?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Elaborar campañas publicitarias.',
+              texto: 'El presupuesto disponible para publicidad institucional.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Organizar clientes según criterios definidos.',
+              texto: 'La cantidad de vendedores disponibles diariamente.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Incrementar automáticamente las ventas.',
-              esCorrecta: false,
+              texto: 'La probabilidad de convertirse en cliente.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Facilitar el análisis comercial.',
-              esCorrecta: true,
+              texto: 'El número de competidores presentes en el mercado.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -120,30 +125,30 @@ export default {
         },
         {
           id: 4,
-          texto:
-            '¿Qué aporta el perfilamiento comercial al análisis del cliente?',
+          texto: '¿Cuál es la función principal del lead scoring?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'La definición del presupuesto comercial.',
+              texto: 'Crear contenidos para redes sociales corporativas.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'La identificación de atributos del cliente.',
-              esCorrecta: true,
+              texto:
+                'Administrar inventarios según demanda comercial prevista.',
+              esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'La elaboración del portafolio empresarial.',
+              texto: 'Organizar reuniones entre equipos comerciales internos.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'La administración del inventario disponible.',
-              esCorrecta: false,
+              texto: 'Asignar prioridades mediante valoración de prospectos.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -151,28 +156,30 @@ export default {
         },
         {
           id: 5,
-          texto: '¿Para qué sirven las fuentes de información del cliente?',
+          texto:
+            '¿Qué criterio fortalece la priorización comercial de prospectos?',
           imagen: '@/assets/actividad/imagen5.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Diseñar productos industriales.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Obtener información para comprender al consumidor.',
+              texto: 'Analizar información relevante para tomar decisiones.',
               esCorrecta: true,
             },
             {
+              id: 'b',
+              texto:
+                'Incrementar automáticamente el presupuesto publicitario anual.',
+              esCorrecta: false,
+            },
+            {
               id: 'c',
-              texto: 'Sustituir el proceso de segmentación.',
+              texto: 'Reducir permanentemente los canales de comunicación.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Calcular la rentabilidad empresarial.',
+              texto: 'Modificar continuamente el catálogo de productos.',
               esCorrecta: false,
             },
           ],
@@ -181,28 +188,29 @@ export default {
         },
         {
           id: 6,
-          texto: '¿Cuál es la finalidad principal de segmentar un mercado?',
+          texto: '¿Qué representa el embudo de conversión comercial?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Organizar consumidores con características comunes.',
+              texto: 'El recorrido del prospecto hasta convertirse en cliente.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Elaborar campañas publicitarias digitales.',
+              texto: 'La clasificación de proveedores según costos logísticos.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Diseñar nuevos productos comerciales.',
+              texto:
+                'La organización de inventarios para distribución comercial.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Incrementar automáticamente las ventas.',
+              texto: 'El análisis financiero de campañas promocionales.',
               esCorrecta: false,
             },
           ],
@@ -211,28 +219,29 @@ export default {
         },
         {
           id: 7,
-          texto: '¿Qué permiten identificar las variables psicográficas?',
+          texto:
+            '¿Qué busca identificar la prospectación comercial estratégica?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'La ubicación geográfica del consumidor.',
+              texto: 'Las oportunidades comerciales con clientes potenciales.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'El nivel educativo del cliente.',
+              texto: 'Los procesos internos de producción industrial.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Los intereses y estilos de vida.',
+              texto: 'Los cambios en la legislación tributaria nacional.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'La actividad económica empresarial.',
+              texto: 'Las condiciones de almacenamiento de mercancías.',
               esCorrecta: false,
             },
           ],
@@ -241,29 +250,30 @@ export default {
         },
         {
           id: 8,
-          texto: '¿Qué analizan principalmente las variables conductuales?',
+          texto: '¿Cuál etapa sucede después del primer contacto comercial?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'El comportamiento del consumidor frente al mercado.',
-              esCorrecta: true,
+              texto: 'Evaluación definitiva de proveedores estratégicos.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'La distribución territorial de las empresas.',
+              texto: 'Seguimiento del interés mostrado por el prospecto.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Las características demográficas familiares.',
+              texto:
+                'Priorización de oportunidades mediante criterios establecidos.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Los recursos financieros de la organización.',
-              esCorrecta: false,
+              texto: 'Avance progresivo dentro del embudo de conversión.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -271,28 +281,28 @@ export default {
         },
         {
           id: 9,
-          texto: '¿Qué representa un nicho de mercado?',
+          texto: '¿Qué favorece un adecuado seguimiento comercial?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Un mercado internacional especializado.',
-              esCorrecta: false,
+              texto: 'Mantener comunicación continua con el prospecto.',
+              esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Un grupo específico dentro de un segmento.',
+              texto: 'Reducir el número de contactos comerciales.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Una estrategia para aumentar ventas.',
-              esCorrecta: true,
+              texto: 'Eliminar registros del historial del cliente.',
+              esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Un conjunto de proveedores comerciales.',
+              texto: 'Suspender acciones durante la negociación inicial.',
               esCorrecta: false,
             },
           ],
@@ -301,29 +311,31 @@ export default {
         },
         {
           id: 10,
-          texto: '¿En qué se fundamenta seleccionar un público objetivo?',
+          texto: '¿Qué fortalece las estrategias de relacionamiento comercial?',
           imagen: '@/assets/actividad/imagen5.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'En la intuición del equipo comercial.',
+              texto:
+                'Incrementar únicamente las promociones comerciales disponibles.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'En el tamaño total del mercado.',
-              esCorrecta: false,
+              texto: 'Personalizar la comunicación según cada prospecto.',
+              esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'En la información obtenida durante la segmentación.',
+              texto: 'Disminuir el análisis del comportamiento del cliente.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'En el análisis del mercado y los objetivos comerciales.',
-              esCorrecta: true,
+              texto:
+                'Sustituir completamente los canales digitales existentes.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -331,30 +343,28 @@ export default {
         },
         {
           id: 11,
-          texto:
-            '¿Cuál es el propósito principal de la prospectación comercial?',
+          texto: '¿Qué permite el análisis de prospectos comerciales?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Elaborar campañas de publicidad institucional.',
+              texto: 'Definir rutas para distribución física de productos.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Identificar clientes potenciales para la gestión comercial.',
+              texto: 'Valorar información para apoyar decisiones comerciales.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Diseñar nuevos productos empresariales.',
+              texto: 'Elaborar manuales de contratación del personal.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Organizar la estructura administrativa.',
+              texto: 'Programar actividades de mantenimiento preventivo.',
               esCorrecta: false,
             },
           ],
@@ -363,30 +373,29 @@ export default {
         },
         {
           id: 12,
-          texto: '¿Qué orientan las estrategias de prospectación comercial?',
+          texto: '¿Qué caracteriza a un <em>buyer persona</em>?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'La distribución física de productos.',
+              texto: 'Es un perfil construido con información analizada.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'La elaboración de presupuestos comerciales.',
+              texto: 'Es un listado general de clientes frecuentes.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto:
-                'La identificación organizada de oportunidades comerciales.',
-              esCorrecta: false,
+              texto: 'Es una representación del cliente ideal.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Las acciones dirigidas hacia clientes potenciales.',
-              esCorrecta: true,
+              texto: 'Es una estrategia para fijar precios comerciales.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -394,30 +403,31 @@ export default {
         },
         {
           id: 13,
-          texto: '¿Qué permiten los métodos de identificación de prospectos?',
+          texto:
+            '¿Qué información incluyen las variables demográficas del cliente?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Reconocer clientes potenciales compatibles con la organización.',
-              esCorrecta: true,
+              texto: 'Edad, ubicación, ocupación y nivel educativo.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Elaborar estrategias de fijación de precios.',
+              texto:
+                'Preferencias musicales y actividades recreativas únicamente.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Diseñar campañas publicitarias masivas.',
+              texto: 'Indicadores financieros de la organización comercial.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Definir procesos de contratación empresarial.',
-              esCorrecta: false,
+              texto: 'Costos logísticos de distribución internacional.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -425,28 +435,28 @@ export default {
         },
         {
           id: 14,
-          texto: '¿Para qué sirven los criterios de priorización comercial?',
+          texto: '¿Qué representan los pain points del cliente potencial?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Clasificar productos según su precio.',
+              texto: 'Las oportunidades para ampliar mercados internacionales.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Establecer el orden de atención de prospectos.',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto: 'Diseñar promociones para nuevos mercados.',
+              texto: 'Las dificultades que buscan una solución.',
               esCorrecta: true,
             },
             {
+              id: 'c',
+              texto: 'Los indicadores financieros del proceso comercial.',
+              esCorrecta: false,
+            },
+            {
               id: 'd',
-              texto: 'Organizar el inventario empresarial.',
+              texto: 'Los recursos tecnológicos de la organización.',
               esCorrecta: false,
             },
           ],
@@ -455,28 +465,29 @@ export default {
         },
         {
           id: 15,
-          texto: '¿Qué favorece priorizar adecuadamente clientes potenciales?',
+          texto: '¿Por qué deben analizarse las expectativas del cliente?',
           imagen: '@/assets/actividad/imagen5.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Reducir el análisis del mercado.',
+              texto:
+                'Para modificar permanentemente los procesos administrativos.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Sustituir la segmentación comercial.',
+              texto: 'Para reducir el número de canales comerciales.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Optimizar la utilización de recursos comerciales.',
+              texto: 'Para diseñar propuestas de valor pertinentes.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Incrementar automáticamente las ventas.',
+              texto: 'Para incrementar automáticamente las ventas mensuales.',
               esCorrecta: false,
             },
           ],
@@ -485,29 +496,28 @@ export default {
         },
         {
           id: 16,
-          texto:
-            '¿Qué integra una estrategia comercial dentro de la organización?',
+          texto: '¿Qué finalidad tiene construir un <em>buyer persona</em>?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Los procesos administrativos y financieros.',
+              texto: 'Organizar los procesos contables de la empresa.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'El conocimiento del mercado y los clientes potenciales.',
+              texto: 'Comprender mejor al cliente potencial objetivo.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Las actividades contables de la empresa.',
+              texto: 'Calcular los costos de producción empresarial.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Los procesos de producción industrial.',
+              texto: 'Elaborar informes financieros para la gerencia.',
               esCorrecta: false,
             },
           ],
@@ -516,28 +526,29 @@ export default {
         },
         {
           id: 17,
-          texto: '¿Qué orientan los objetivos comerciales en una organización?',
+          texto:
+            '¿Qué aspecto analizan las variables motivacionales del cliente?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'El diseño del producto final.',
+              texto: 'Las razones que impulsan sus decisiones.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'La estructura organizacional.',
+              texto: 'La ubicación física de sus oficinas.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Las decisiones y acciones comerciales.',
+              texto: 'Los motivos que orientan su comportamiento.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'La administración del talento humano.',
+              texto: 'El inventario disponible para comercialización.',
               esCorrecta: false,
             },
           ],
@@ -546,28 +557,30 @@ export default {
         },
         {
           id: 18,
-          texto: '¿Qué aporta la segmentación a la estrategia comercial?',
+          texto:
+            '¿Qué aporta la priorización estratégica de clientes potenciales?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Incrementar automáticamente la rentabilidad empresarial.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'El conocimiento para orientar decisiones comerciales.',
+              texto: 'Concentrar esfuerzos en oportunidades con mayor valor.',
               esCorrecta: true,
             },
             {
+              id: 'b',
+              texto: 'Incrementar automáticamente el número de vendedores.',
+              esCorrecta: false,
+            },
+            {
               id: 'c',
-              texto: 'Sustituir el proceso de prospectación comercial.',
+              texto:
+                'Sustituir completamente los canales comerciales existentes.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Eliminar la necesidad de analizar clientes potenciales.',
+              texto: 'Eliminar las actividades de seguimiento comercial.',
               esCorrecta: false,
             },
           ],
@@ -576,29 +589,29 @@ export default {
         },
         {
           id: 19,
-          texto: '¿Cómo se identifican las oportunidades de mercado?',
+          texto: '¿Qué beneficio ofrece analizar las expectativas del cliente?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Mediante decisiones tomadas al azar.',
+              texto: 'Reducir el tiempo destinado a la prospectación.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Únicamente por experiencia del vendedor.',
+              texto: 'Definir únicamente estrategias de promoción masiva.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'A través del análisis sistemático del mercado.',
-              esCorrecta: true,
+              texto: 'Diseñar propuestas alineadas con sus necesidades.',
+              esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Exclusivamente mediante campañas publicitarias.',
-              esCorrecta: false,
+              texto: 'Fortalecer la propuesta de valor comercial.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -606,30 +619,28 @@ export default {
         },
         {
           id: 20,
-          texto:
-            '¿Qué proceso integra el análisis comercial completo del componente?',
+          texto: '¿Qué contribuye a mejorar la toma de decisiones comerciales?',
           imagen: '@/assets/actividad/imagen5.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Segmentación, perfilamiento, prospectación y estrategia comercial.',
+              texto: 'Analizar información objetiva sobre los prospectos.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Producción, distribución, inventarios y logística.',
+              texto: 'Incrementar el número de productos disponibles.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Publicidad, contabilidad, impuestos y compras.',
+              texto: 'Modificar continuamente los canales de distribución.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Administración financiera, talento humano y manufactura.',
+              texto: 'Aumentar el presupuesto anual de publicidad.',
               esCorrecta: false,
             },
           ],

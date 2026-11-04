@@ -18,7 +18,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/tema8/2.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Su análisis facilita la construcción de buyer persona más precisos y proporciona información útil para segmentar mercados, diseñar estrategias comerciales y fortalecer la relación entre la organización y sus clientes. La integración de estas variables permite orientar las decisiones comerciales con base en información objetiva y relevante. 
+        p.mb-0 Su análisis facilita la construcción de #[em buyer persona] más precisos y proporciona información útil para segmentar mercados, diseñar estrategias comerciales y fortalecer la relación entre la organización y sus clientes. La integración de estas variables permite orientar las decisiones comerciales con base en información objetiva y relevante. 
     
     .fullwidth-bg.fullwidth-bg--1
     separador
@@ -185,7 +185,7 @@
       .col-lg-8
         p Los intereses corresponden a los temas, actividades, productos, servicios o contenidos que despiertan la atención del cliente potencial y orientan su comportamiento durante la búsqueda de información y la toma de decisiones, estos intereses pueden estar relacionados con necesidades personales, objetivos profesionales, tendencias del mercado o situaciones específicas que motivan la interacción con una organización.  
         .bg-secundario-s5.p-4.rounded-4.py-3.mb-3
-          p.mb-0 Identificar los intereses del cliente permite desarrollar contenidos, campañas y propuestas comerciales más pertinentes, asimismo, facilita la selección de canales de comunicación y la definición de mensajes alineados con los temas que generan mayor valor para el buyer persona, fortaleciendo la relación entre la organización y sus clientes potenciales.  
+          p.mb-0 Identificar los intereses del cliente permite desarrollar contenidos, campañas y propuestas comerciales más pertinentes, asimismo, facilita la selección de canales de comunicación y la definición de mensajes alineados con los temas que generan mayor valor para el #[em buyer persona], fortaleciendo la relación entre la organización y sus clientes potenciales.  
 
     .fullwidth-bg.fullwidth-bg--1
     .row.justify-content-center.z-2.mb-5
