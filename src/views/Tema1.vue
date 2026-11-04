@@ -118,7 +118,7 @@
                 th(colspan="3") Aporte a la valoración 
             tbody
               tr(style="background-color: #FFFFFF")
-                th(colspan="2") #[strong Afinidad con la oferta]
+                td(colspan="2") #[strong Afinidad con la oferta]
                 td(colspan="3") Correspondencia entre las necesidades del prospecto y la solución ofrecida. 
                 td(colspan="3") Determina el grado de adecuación entre la oferta y la demanda potencial. 
               tr(style="background-color: #E9EEF5")

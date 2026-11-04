@@ -28,7 +28,7 @@
     .row.justify-content-center.z-2
       .col-xl-10
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 5.
+          h5 Tabla 6.
           span Variables demográficas utilizadas en el perfil del cliente 
         .tabla-a.color-secundario.tabla-a--text-left
           table
@@ -39,7 +39,7 @@
                 th(colspan="3") Aplicación comercial 
             tbody
               tr(style="background-color: #FFFFFF")
-                th(colspan="2") #[strong Edad]
+                td(colspan="2") #[strong Edad]
                 td(colspan="3") Rango de edad del cliente potencial. 
                 td(colspan="3") Adaptar la comunicación y la oferta. 
               tr(style="background-color: #E9EEF5")
@@ -75,7 +75,7 @@
     .row.justify-content-center.z-2
       .col-xl-10
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 6.
+          h5 Tabla 7.
           span Ejemplos de variables motivacionales 
         .tabla-a.color-secundario.tabla-a--text-left
           table
@@ -86,7 +86,7 @@
                 th(colspan="3") Ejemplo 
             tbody
               tr(style="background-color: #FFFFFF")
-                th(colspan="2") #[strong Necesidades]
+                td(colspan="2") #[strong Necesidades]
                 td(colspan="3") Problemas que el cliente desea resolver. 
                 td(colspan="3") Optimizar el proceso de ventas. 
               tr(style="background-color: #E9EEF5")
@@ -191,7 +191,7 @@
     .row.justify-content-center.z-2.mb-5
       .col-xl-10
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 7.
+          h5 Tabla 8.
           span Diferencia entre intereses, motivaciones y objetivos
         .tabla-a.color-secundario.tabla-a--text-left
           table
@@ -203,7 +203,7 @@
                 th Objetivos
             tbody
               tr(style="background-color: #E9EEF5")
-                th #[strong ¿Qué representan?]
+                td #[strong ¿Qué representan?]
                 td Temas o soluciones que llaman la atención del cliente.
                 td Razones que impulsan su comportamiento.
                 td Resultados que espera alcanzar.

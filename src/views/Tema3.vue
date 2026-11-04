@@ -69,7 +69,7 @@
                 th(colspan="3") Ejemplo de acción 
             tbody
               tr(style="background-color: #FFFFFF")
-                th(colspan="2") #[strong Atracción]
+                td(colspan="2") #[strong Atracción]
                 td(colspan="3") Dar a conocer la organización y captar el interés de prospectos. 
                 td(colspan="3") Publicación de contenidos en redes sociales o campañas digitales. 
               tr(style="background-color: #E9EEF5")
