@@ -291,3 +291,25 @@ figcaption, table caption
 .tabs-a__tab
   background-color: $color-primario
   color: $white
+
+.checklist
+  li
+    position: relative
+    margin-bottom: 3px
+    &:last-child
+      margin-bottom: 0
+    &::before
+      content: url('../assets/curso/common/list-dot.svg')
+      position: absolute
+      left: -10px
+      top: -3px
+
+.linea-tiempo-d
+  &__item__content
+    background-color: $color-secundario-s20
+    padding: .5rem
+  &__item--selected
+    .linea-tiempo-d__item__content
+      background-color: $color-primario-p10
+  &__item__number
+    background-color: $color-primario-p10
