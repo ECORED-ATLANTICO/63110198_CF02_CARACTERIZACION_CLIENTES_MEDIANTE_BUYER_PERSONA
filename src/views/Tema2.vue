@@ -18,7 +18,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/tema2/2.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 A diferencia de una simple clasificación, este proceso integra criterios previamente definidos para priorizar las oportunidades comerciales y orientar de manera más eficiente las acciones del equipo de marketing y ventas. Su aplicación contribuye a optimizar recursos, mejorar la oportunidad en la atención y favorecer la toma de decisiones basada en información. 
+        p.mb-0 A diferencia de una simple clasificación, este proceso integra criterios previamente definidos para priorizar las oportunidades comerciales y orientar de manera más eficiente las acciones del equipo de #[em marketing] y ventas. Su aplicación contribuye a optimizar recursos, mejorar la oportunidad en la atención y favorecer la toma de decisiones basada en información. 
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -29,7 +29,7 @@
         p El #[em lead scoring] es una metodología utilizada para evaluar y clasificar prospectos mediante la asignación de una puntuación basada en características previamente definidas por la organización, esta valoración considera aspectos como el perfil del prospecto, su comportamiento frente a la marca y el nivel de interés demostrado durante su interacción con los diferentes canales de comunicación.  
         .bg-primario-p5.p-4.rounded-4.py-3.mb-3
           p.mb-0 El propósito es identificar cuáles prospectos presentan una mayor probabilidad de convertirse en clientes y, por tanto, requieren una atención prioritaria.  
-        p.mb-4.mb-lg-0 La implementación del #[em lead scoring] permite sustituir decisiones basadas en la intuición por criterios objetivos y consistentes. De esta manera, las organizaciones pueden concentrar sus esfuerzos comerciales en las oportunidades con mayor potencial, mejorar la coordinación entre marketing y ventas y aumentar la eficiencia de los procesos de conversión. 
+        p.mb-4.mb-lg-0 La implementación del #[em lead scoring] permite sustituir decisiones basadas en la intuición por criterios objetivos y consistentes. De esta manera, las organizaciones pueden concentrar sus esfuerzos comerciales en las oportunidades con mayor potencial, mejorar la coordinación entre #[em marketing] y ventas y aumentar la eficiencia de los procesos de conversión. 
       .col-sm-6.col-lg-3
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema2/3.png", alt="")
@@ -52,7 +52,7 @@
       .col-lg-8
         p La clasificación de prospectos consiste en agrupar los contactos comerciales según su nivel de afinidad con la oferta de la organización y la probabilidad de avanzar dentro del proceso de conversión. Este procedimiento facilita la priorización de las acciones comerciales al identificar qué prospectos requieren un seguimiento inmediato, cuáles necesitan procesos de nutrición y cuáles aún no reúnen las condiciones para convertirse en oportunidades de venta.  
         .bg-primario-p10.p-4.rounded-4.py-3.mb-4.mb-lg-0
-          p.mb-0 Una clasificación adecuada permite optimizar la asignación de recursos comerciales y establecer estrategias diferenciadas para cada grupo de prospectos. De esta manera, el equipo de marketing y ventas puede adaptar los mensajes, la frecuencia de contacto y las acciones de seguimiento de acuerdo con las características y el nivel de interés de cada segmento, favoreciendo una gestión más eficiente del proceso comercial. 
+          p.mb-0 Una clasificación adecuada permite optimizar la asignación de recursos comerciales y establecer estrategias diferenciadas para cada grupo de prospectos. De esta manera, el equipo de #[em marketing] y ventas puede adaptar los mensajes, la frecuencia de contacto y las acciones de seguimiento de acuerdo con las características y el nivel de interés de cada segmento, favoreciendo una gestión más eficiente del proceso comercial. 
       .col-sm-8.col-lg-4
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema2/4.png", alt="")

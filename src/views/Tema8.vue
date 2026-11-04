@@ -92,7 +92,7 @@
               tr(style="background-color: #E9EEF5")
                 th(colspan="2") #[strong Intereses]
                 td(colspan="3") Temas o soluciones que llaman su atención. 
-                td(colspan="3") Herramientas de marketing digital. 
+                td(colspan="3") Herramientas de #[em marketing] digital. 
               tr(style="background-color: #FFFFFF")
                 th(colspan="2") #[strong Aspiraciones]
                 td(colspan="3") Resultados que espera alcanzar. 

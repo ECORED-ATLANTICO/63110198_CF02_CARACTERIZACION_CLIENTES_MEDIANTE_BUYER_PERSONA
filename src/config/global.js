@@ -373,7 +373,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Amazon Ads. (s. f.). ¿Qué es el embudo de marketing? Cómo funciona, etapas y ejemplos.',
+        'Amazon Ads. (s. f.). ¿Qué es el embudo de <em>marketing</em>? Cómo funciona, etapas y ejemplos.',
       link: 'https://advertising.amazon.com/es-co/library/guides/marketing-funnel',
     },
     {
@@ -383,7 +383,7 @@ export default {
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje. (s. f.). Marketing digital. Ecosistema de Recursos Educativos Digitales SENA.',
+        'Servicio Nacional de Aprendizaje. (s. f.). <em>Marketing</em> digital. Ecosistema de Recursos Educativos Digitales SENA.',
       link: 'https://zajuna.sena.edu.co/Repositorio/Titulada/institution/SENA/Ventas/632201/Contenido/OVA/CF5/index.html',
     },
     {
