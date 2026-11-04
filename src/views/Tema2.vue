@@ -35,7 +35,7 @@
           img(data-aos="fade-down-right", src="@/assets/curso/tema2/3.png", alt="")
 
     .row.justify-content-center.z-2
-      .col-xl-10.bg-contenido-a5.rounded-4.p-4.p-lg-0
+      .col-xl-10.bg-contenido-a5.rounded-4.p-4.py-lg-0
         .row.justify-content-center.align-items-center
           .col-lg-2.d-none.d-lg-block
             figure
@@ -106,7 +106,7 @@
 
     .fullwidth-bg.fullwidth-bg--1
     .row.justify-content-center.z-2
-      .col-xl-10.bg-contenido-a5.rounded-4.p-4.p-lg-0
+      .col-xl-10.bg-contenido-a5.rounded-4.p-4.py-lg-0
         .row.justify-content-center.align-items-center
           .col-lg-2.d-none.d-lg-block
             figure

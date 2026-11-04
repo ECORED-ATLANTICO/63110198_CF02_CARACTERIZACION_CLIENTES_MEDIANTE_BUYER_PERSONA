@@ -151,7 +151,7 @@
               p.mb-0 Al valorar la información disponible, el equipo comercial identifica que el primer prospecto presenta un mayor nivel de preparación para la compra y prioriza su seguimiento. 
 
     .row.justify-content-center.z-2
-      .col-xl-10.bg-contenido-a5.rounded-4.p-4.p-lg-0
+      .col-xl-10.bg-contenido-a5.rounded-4.p-4.py-lg-0
         .row.justify-content-center.align-items-center
           .col-lg-2.d-none.d-lg-block
             figure

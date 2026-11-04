@@ -31,7 +31,7 @@
           img(data-aos="fade-down-right", src="@/assets/curso/tema3/2.png", alt="")
 
     .row.justify-content-center.z-2
-      .col-xl-10.bg-contenido-a5.rounded-4.p-4.p-lg-0
+      .col-xl-10.bg-contenido-a5.rounded-4.p-4.py-lg-0
         .row.justify-content-center.align-items-center
           .col-lg-2.d-none.d-lg-block
             figure
@@ -106,7 +106,7 @@
               p #[strong NovaMarket S.A.S.] desarrolla campañas digitales para atraer empresas interesadas en comercializar artículos deportivos, a medida que los prospectos interactúan con los contenidos publicados. La organización registra información sobre sus intereses y nivel de participación,  posteriormente, el equipo comercial utiliza estos datos para establecer contactos personalizados con los prospectos de mayor potencial, incrementando las posibilidades de conversión y fortaleciendo la relación comercial desde las primeras interacciones. 
 
     .row.justify-content-center.z-2.mb-4
-      .col-xl-10.bg-contenido-a5.rounded-4.p-4.p-lg-0
+      .col-xl-10.bg-contenido-a5.rounded-4.p-4.py-lg-0
         .row.justify-content-center.align-items-center
           .col-lg-2.d-none.d-lg-block
             figure

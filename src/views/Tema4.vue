@@ -49,7 +49,7 @@
             p #[strong NovaMarket S.A.S.] identifica oportunidades comerciales mediante el análisis de los registros obtenidos en su tienda virtual, formularios de contacto, campañas en redes sociales y participación en ferias deportivas. Posteriormente, clasifica la información recopilada para determinar cuáles empresas cumplen las características definidas dentro de su mercado objetivo. 
 
     .row.justify-content-center.z-2
-      .col-xl-10.bg-contenido-a5.rounded-4.p-4.p-lg-0
+      .col-xl-10.bg-contenido-a5.rounded-4.p-4.py-lg-0
         .row.justify-content-center.align-items-center
           .col-lg-2.d-none.d-lg-block
             figure
