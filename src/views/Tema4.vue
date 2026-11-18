@@ -55,7 +55,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/10.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 Identificar oportunidades significa reconocer prospectos que presentan condiciones favorables para establecer una futura relación comercial con la organización. 
 
     separador
@@ -83,32 +83,32 @@
       .tarjeta.bg-primario-p5.p-4(titulo="Correo electrónico ")
         .row.justify-content-center.align-items-center
           .col-lg-6
-            p.mb-0 #[strong Propósito:] Compartir información, presentar la oferta comercial y mantener una comunicación formal y organizada con el prospecto. 
-            p.mb-4.mb-lg-0 #[strong Ejemplo:] Envío de catálogos, propuestas comerciales, información de productos o servicios, novedades y contenidos de interés. 
+            p.mb-0 #[strong Propósito:] compartir información, presentar la oferta comercial y mantener una comunicación formal y organizada con el prospecto. 
+            p.mb-4.mb-lg-0 #[strong Ejemplo:] envío de catálogos, propuestas comerciales, información de productos o servicios, novedades y contenidos de interés. 
           .col-sm-8.col-lg-5
             figure
               img.mb-4.mb-lg-0(src="@/assets/curso/tema4/5.png", alt="" data-aos="zoom-in-down")
       .tarjeta.bg-primario-p5.p-4(titulo="Llamada telefónica")
         .row.justify-content-center.align-items-center
           .col-lg-6
-            p.mb-0 #[strong Propósito:] Resolver inquietudes, identificar necesidades y conocer el nivel de interés del prospecto. 
-            p.mb-4.mb-lg-0 #[strong Ejemplo:] Seguimiento a una cotización, confirmación de una reunión, ampliación de información o validación de datos. 
+            p.mb-0 #[strong Propósito:] resolver inquietudes, identificar necesidades y conocer el nivel de interés del prospecto. 
+            p.mb-4.mb-lg-0 #[strong Ejemplo:] seguimiento a una cotización, confirmación de una reunión, ampliación de información o validación de datos. 
           .col-sm-8.col-lg-5
             figure
               img.mb-4.mb-lg-0(src="@/assets/curso/tema4/6.png", alt="" data-aos="zoom-in-down")
       .tarjeta.bg-primario-p5.p-4(titulo="Mensajería instantánea")
         .row.justify-content-center.align-items-center
           .col-lg-6
-            p.mb-0 #[strong Propósito:] Facilitar una comunicación rápida, directa y oportuna con el prospecto. 
-            p.mb-4.mb-lg-0 #[strong Ejemplo:] Envío de recordatorios, respuesta a consultas, confirmación de citas o envío de información puntual sobre la oferta. 
+            p.mb-0 #[strong Propósito:] facilitar una comunicación rápida, directa y oportuna con el prospecto. 
+            p.mb-4.mb-lg-0 #[strong Ejemplo:] envío de recordatorios, respuesta a consultas, confirmación de citas o envío de información puntual sobre la oferta. 
           .col-sm-8.col-lg-5
             figure
               img.mb-4.mb-lg-0(src="@/assets/curso/tema4/7.png", alt="" data-aos="zoom-in-down")
       .tarjeta.bg-primario-p5.p-4(titulo="Reunión virtual")
         .row.justify-content-center.align-items-center
           .col-lg-6
-            p.mb-0 #[strong Propósito:] Presentar soluciones, profundizar en las necesidades del prospecto y fortalecer la relación comercial. 
-            p.mb-4.mb-lg-0 #[strong Ejemplo:] Demostración de productos o servicios, presentación de propuestas, resolución de inquietudes o asesoría personalizada. 
+            p.mb-0 #[strong Propósito:] presentar soluciones, profundizar en las necesidades del prospecto y fortalecer la relación comercial. 
+            p.mb-4.mb-lg-0 #[strong Ejemplo:] demostración de productos o servicios, presentación de propuestas, resolución de inquietudes o asesoría personalizada. 
           .col-sm-8.col-lg-5
             figure
               img.mb-4.mb-lg-0(src="@/assets/curso/tema4/8.png", alt="" data-aos="zoom-in-down")
@@ -149,7 +149,7 @@
               figure
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Ejemplo aplicado. 
+              h5 Ejemplo aplicado
               p #[strong NovaMarket S.A.S.] diseña diferentes estrategias de contacto según el perfil de sus prospectos. Las empresas que descargan el catálogo digital reciben un correo electrónico con información complementaria y una invitación para agendar una reunión virtual.  
               p.mb-0 En cambio, los prospectos que solicitan una cotización son contactados directamente por un asesor comercial, quien resuelve sus inquietudes y presenta una propuesta ajustada a sus necesidades. Esta diferenciación permite ofrecer una experiencia más pertinente y fortalecer la relación comercial desde los primeros contactos. 
 
@@ -164,11 +164,10 @@
               figure
                 img.imgw-190.mb-4.mb-sm-0(src="@/assets/curso/common/mic.png", alt="")
             .col-sm-8.col-lg-8
-              p A continuación, lo invitamos a consultar el siguiente pódcast:
               TarjetaAudio.mb-3(
                 texto="Técnicas de prospección estratégica"
                 tiempo
-                :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
+                :audio="require_src('@/assets/curso/podcast/63110198_CF02_Podcast_01.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
 
     .row.justify-content-center.z-2
@@ -179,8 +178,8 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/18.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Reflexión del capítulo.  
-              p.mb-0 La toma de decisiones comerciales exige analizar la información con objetividad y actuar de manera coherente con los objetivos de la organización. Priorizar estratégicamente a los clientes potenciales permite optimizar los recursos disponibles, fortalecer las relaciones comerciales y construir resultados sostenibles a largo plazo. 
+              h5 Reflexión del capítulo
+              p.mb-0 La prospectación es más efectiva cuando el contacto con los clientes potenciales se fundamenta en la escucha, la oportunidad y la construcción de confianza. Cada interacción representa una oportunidad para fortalecer la relación comercial y avanzar hacia decisiones que beneficien tanto a la organización como al cliente.
 
 </template>
 

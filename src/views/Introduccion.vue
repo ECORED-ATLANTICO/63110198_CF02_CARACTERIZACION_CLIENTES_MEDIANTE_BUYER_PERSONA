@@ -28,7 +28,7 @@
               figure
                 img.mb-4.mb-lg-0(src="@/assets/curso/intro-1.png", alt="")
             .col-lg-10
-              p #[strong NovaMarket S.A.S.] es una empresa colombiana ficticia dedicada a la comercialización de artículos deportivos mediante canales digitales y comercio electrónico, durante el desarrollo del componente, esta organización servirá como contexto de referencia para ejemplificar procesos de calificación de prospectos, aplicación de metodologías de lead scoring, construcción de perfiles de clientes, formulación de estrategias comerciales y toma de decisiones orientadas a mejorar la conversión de oportunidades de negocio. Su utilización tiene una finalidad exclusivamente didáctica y busca facilitar la integración progresiva de los conceptos desarrollados, favoreciendo una comprensión contextualizada sin reemplazar el análisis conceptual propio de cada temática.
+              p #[strong NovaMarket S.A.S.] es una empresa colombiana ficticia dedicada a la comercialización de artículos deportivos mediante canales digitales y comercio electrónico, durante el desarrollo del componente, esta organización servirá como contexto de referencia para ejemplificar procesos de calificación de prospectos, aplicación de metodologías de #[em lead scoring], construcción de perfiles de clientes, formulación de estrategias comerciales y toma de decisiones orientadas a mejorar la conversión de oportunidades de negocio. Su utilización tiene una finalidad exclusivamente didáctica y busca facilitar la integración progresiva de los conceptos desarrollados, favoreciendo una comprensión contextualizada sin reemplazar el análisis conceptual propio de cada temática.
 
 </template>
 

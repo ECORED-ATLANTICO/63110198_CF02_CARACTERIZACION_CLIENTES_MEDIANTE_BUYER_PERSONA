@@ -41,7 +41,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/10.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 El #[em lead scoring] transforma la información de los prospectos en un criterio objetivo para establecer prioridades comerciales y optimizar el proceso de conversión. 
 
     separador
@@ -70,7 +70,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-7
-        p La valoración de un prospecto requiere definir criterios objetivos que permitan analizar tanto sus características como su comportamiento. Estos criterios constituyen la base del lead scoring, ya que establecen las condiciones bajo las cuales un prospecto recibe una mayor o menor puntuación dentro del proceso comercial.  
+        p La valoración de un prospecto requiere definir criterios objetivos que permitan analizar tanto sus características como su comportamiento. Estos criterios constituyen la base del #[em lead scoring], ya que establecen las condiciones bajo las cuales un prospecto recibe una mayor o menor puntuación dentro del proceso comercial.  
         .bg-contenido-a5.p-4.rounded-4.py-3.mb-4.mb-lg-0
           p.mb-0 La utilización de criterios previamente definidos favorece la consistencia en la toma de decisiones y reduce la subjetividad durante la priorización de oportunidades. Las variables de valoración pueden agruparse en dos grandes categorías: 
       .col-sm-8.col-lg-5
@@ -101,7 +101,7 @@
               figure
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Ejemplo aplicado. 
+              h5 Ejemplo aplicado
               p #[strong NovaMarket S.A.S.] asigna una mayor puntuación a los prospectos que pertenecen a empresas del sector deportivo, ocupan cargos relacionados con la toma de decisiones comerciales y han interactuado recientemente con el catálogo digital o solicitado una demostración de productos,  esta combinación entre variables de perfil y comportamiento permite identificar con mayor precisión cuáles contactos representan oportunidades comerciales prioritarias.
 
     .fullwidth-bg.fullwidth-bg--1
@@ -112,7 +112,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/10.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 La eficacia del #[em lead scoring] depende de establecer criterios de valoración objetivos que integren tanto las características del prospecto como su comportamiento durante el proceso comercial. 
 
     separador
@@ -121,7 +121,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-9
-        p La priorización comercial consiste en establecer el orden en que los prospectos serán atendidos por el equipo comercial, tomando como base la información obtenida durante el proceso de valoración y la puntuación asignada mediante el lead scoring.
+        p La priorización comercial consiste en establecer el orden en que los prospectos serán atendidos por el equipo comercial, tomando como base la información obtenida durante el proceso de valoración y la puntuación asignada mediante el #[em lead scoring].
         .bg-terciario-t5.p-4.rounded-4.py-3.mb-3
           p.mb-0 Su propósito es orientar los esfuerzos de la organización hacia aquellos prospectos que presentan mayores probabilidades de convertirse en clientes, optimizando el uso del tiempo, los recursos y las estrategias de contacto. La priorización no implica descartar los prospectos con menor valoración, sino definir acciones diferenciadas para cada grupo.  
         p.mb-4.mb-lg-0 Mientras los prospectos con mayor puntuación pueden requerir una gestión comercial inmediata, aquellos con menor potencial pueden incorporarse a estrategias de seguimiento o nutrición que fortalezcan progresivamente su interés. De esta manera, la organización desarrolla un proceso comercial más organizado, eficiente y alineado con sus objetivos. 
@@ -141,7 +141,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/4.png", alt="" data-aos="fade-up")
           .col-lg-10
-            p Después de aplicar su modelo de lead scoring, #[strong NovaMarket S.A.S.] identifica que cien prospectos cumplen los criterios definidos para la campaña de lanzamiento de una nueva línea de productos deportivos. Con base en la puntuación obtenida, el equipo comercial establece tres niveles de prioridad: alta, media y baja.  
+            p Después de aplicar su modelo de #[em lead scoring], #[strong NovaMarket S.A.S.] identifica que cien prospectos cumplen los criterios definidos para la campaña de lanzamiento de una nueva línea de productos deportivos. Con base en la puntuación obtenida, el equipo comercial establece tres niveles de prioridad: alta, media y baja.  
             p.mb-0 Los prospectos con prioridad alta reciben contacto personalizado durante las primeras veinticuatro horas, mientras que los demás ingresan a estrategias de seguimiento mediante correo electrónico y contenidos especializados, optimizando así la gestión comercial. 
 
     .row.justify-content-center.z-2
@@ -152,7 +152,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/18.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Reflexión del capítulo.  
+              h5 Reflexión del capítulo
               p.mb-0 Priorizar prospectos significa administrar responsablemente los recursos de la organización. Cuando las decisiones se fundamentan en información objetiva y criterios previamente definidos, el proceso comercial se vuelve más eficiente, fortalece la confianza del cliente y contribuye al logro de resultados sostenibles. 
 
 

@@ -37,7 +37,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/10.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 El embudo de conversión permite visualizar el recorrido de los prospectos durante el proceso comercial y orientar estrategias específicas para favorecer su avance hacia la conversión. 
 
     separador
@@ -65,19 +65,19 @@
             thead
               tr(style="background-color: #E4FFFB")
                 th(colspan="2") Etapa 
-                th(colspan="3") Propósito  
-                th(colspan="3") Ejemplo de acción 
+                th(colspan="3") Propósito
+                th(colspan="3") Ejemplo de acción
             tbody
               tr(style="background-color: #FFFFFF")
                 td(colspan="2") #[strong Atracción]
                 td(colspan="3") Dar a conocer la organización y captar el interés de prospectos. 
                 td(colspan="3") Publicación de contenidos en redes sociales o campañas digitales. 
               tr(style="background-color: #E9EEF5")
-                th(colspan="2") #[strong Consideración]
+                td(colspan="2") #[strong Consideración]
                 td(colspan="3") Facilitar la evaluación de la oferta y fortalecer el interés del prospecto. 
                 td(colspan="3") Envío de información, demostraciones o asesorías comerciales. 
               tr(style="background-color: #FFFFFF")
-                th(colspan="2") #[strong Conversión]
+                td(colspan="2") #[strong Conversión]
                 td(colspan="3") Lograr la acción comercial esperada por la organización. 
                 td(colspan="3") Compra de un producto, contratación de un servicio o solicitud de una cotización. 
               
@@ -102,7 +102,7 @@
               figure
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Ejemplo aplicado. 
+              h5 Ejemplo aplicado
               p #[strong NovaMarket S.A.S.] desarrolla campañas digitales para atraer empresas interesadas en comercializar artículos deportivos, a medida que los prospectos interactúan con los contenidos publicados. La organización registra información sobre sus intereses y nivel de participación,  posteriormente, el equipo comercial utiliza estos datos para establecer contactos personalizados con los prospectos de mayor potencial, incrementando las posibilidades de conversión y fortaleciendo la relación comercial desde las primeras interacciones. 
 
     .row.justify-content-center.z-2.mb-4
@@ -112,7 +112,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/10.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 La prospectación identifica y prepara las oportunidades comerciales; la conversión aprovecha esa información para transformarlas en clientes mediante acciones estratégicas y oportunas.
           
     .row.justify-content-center.z-2
@@ -123,7 +123,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/18.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Reflexión del capítulo.  
+              h5 Reflexión del capítulo
               p.mb-0 El embudo de conversión demuestra que cada interacción aporta valor cuando responde a las necesidades del prospecto. Comprender su recorrido y actuar con criterio fortalece la confianza, mejora la experiencia comercial y favorece relaciones sostenibles entre la organización y sus clientes. 
 
 </template>

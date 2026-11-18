@@ -30,7 +30,7 @@
       .col-lg-7
         p La calificación de prospectos es el proceso mediante el cual una organización analiza la información disponible sobre clientes potenciales para identificar cuáles representan mayores oportunidades comerciales. Este proceso permite diferenciar los prospectos según características como sus necesidades, nivel de interés, capacidad de compra o afinidad con la oferta de la empresa, facilitando la asignación estratégica de los recursos comerciales y mejorando la eficiencia de las acciones de ventas.  
         .bg-secundario-s5.p-4.rounded-4.py-3.mb-4.mb-lg-0
-          p.mb-0 Más que clasificar contactos, la calificación busca respaldar la toma de decisiones mediante criterios objetivos que reduzcan la incertidumbre en la gestión comercial. La información obtenida constituye el punto de partida para procesos posteriores como el lead scoring, la priorización comercial y la construcción de perfiles de clientes, fortaleciendo la planificación de estrategias orientadas a incrementar las probabilidades de conversión. 
+          p.mb-0 Más que clasificar contactos, la calificación busca respaldar la toma de decisiones mediante criterios objetivos que reduzcan la incertidumbre en la gestión comercial. La información obtenida constituye el punto de partida para procesos posteriores como el #[em lead scoring], la priorización comercial y la construcción de perfiles de clientes, fortaleciendo la planificación de estrategias orientadas a incrementar las probabilidades de conversión. 
       .col-sm-8.col-lg-5
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema1/3.png", alt="")
@@ -75,7 +75,7 @@
               figure
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Ejemplo aplicado. 
+              h5 Ejemplo aplicado
               p En #[strong NovaMarket S.A.S.], los prospectos se priorizan mediante una matriz que considera cuatro variables principales: afinidad con el perfil del cliente ideal, nivel de interacción con los canales digitales, intención de compra identificada y capacidad estimada para adquirir los productos. Cada variable recibe una valoración que permite clasificar los prospectos en diferentes niveles de prioridad.  
               p.mb-0 Gracias a este procedimiento, el equipo comercial concentra inicialmente sus esfuerzos en aquellas oportunidades con mayor probabilidad de conversión, optimizando el tiempo disponible y mejorando la eficiencia de las campañas comerciales. 
 
@@ -122,15 +122,15 @@
                 td(colspan="3") Correspondencia entre las necesidades del prospecto y la solución ofrecida. 
                 td(colspan="3") Determina el grado de adecuación entre la oferta y la demanda potencial. 
               tr(style="background-color: #E9EEF5")
-                th(colspan="2") #[strong Nivel de interés]
+                td(colspan="2") #[strong Nivel de interés]
                 td(colspan="3") Interacciones realizadas con contenidos, formularios o canales de contacto. 
                 td(colspan="3") Permite identificar el compromiso demostrado por el prospecto. 
               tr(style="background-color: #FFFFFF")
-                th(colspan="2") #[strong Capacidad de compra]
+                td(colspan="2") #[strong Capacidad de compra]
                 td(colspan="3") Posibilidad económica o presupuestal para adquirir el producto o servicio. 
                 td(colspan="3") Ayuda a estimar la viabilidad comercial de la oportunidad. 
               tr(style="background-color: #E9EEF5")
-                th(colspan="2") #[strong Momento de compra]
+                td(colspan="2") #[strong Momento de compra]
                 td(colspan="3") Cercanía de la decisión de adquisición. 
                 td(colspan="3") Facilita establecer prioridades para el seguimiento comercial. 
 
@@ -157,7 +157,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/10.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 Valorar un prospecto significa analizar múltiples variables para comprender su nivel de oportunidad comercial, no únicamente medir su intención de compra. 
 
     separador
@@ -186,7 +186,7 @@
               figure
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Ejemplo aplicado. 
+              h5 Ejemplo aplicado
               p Después de valorar los prospectos obtenidos en una campaña digital, #[strong NovaMarket S.A.S.] establece tres niveles de potencial de conversión. Los prospectos con potencial alto son contactados durante las primeras 24 horas; aquellos con potencial medio ingresan a una estrategia automatizada de seguimiento mediante correo electrónico, y los de potencial bajo reciben contenidos informativos que buscan fortalecer su interés hasta que estén preparados para avanzar en el proceso comercial.
 
     .titulo-con-imagen.mb-5.z-2(data-aos="fade-right")
@@ -244,7 +244,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/18.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Reflexión del capítulo.  
+              h5 Reflexión del capítulo
               p Calificar un prospecto implica mucho más que asignar una prioridad comercial; significa analizar la información con criterio, objetividad y respeto por las necesidades del cliente.  
               p.mb-0 Cuando las decisiones se sustentan en datos confiables y en principios de integridad, se fortalecen las relaciones comerciales y se construye confianza, uno de los activos más valiosos para cualquier organización. 
 

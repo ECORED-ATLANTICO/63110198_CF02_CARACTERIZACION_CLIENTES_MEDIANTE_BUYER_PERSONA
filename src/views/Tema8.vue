@@ -25,6 +25,8 @@
     #t_8_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 8.1 Demográficas
 
+    p.mb-5.z-2 Las variables demográficas reúnen información básica que permite describir las características generales del cliente potencial. Entre las más utilizadas se encuentran la edad, el género, el nivel educativo, la ocupación, el ingreso, el estado civil y la ubicación geográfica. Estos datos facilitan la identificación de segmentos de mercado con características comunes y constituyen el punto de partida para la construcción del perfil del cliente. 
+
     .row.justify-content-center.z-2
       .col-xl-10
         .titulo-sexto.color-acento-contenido
@@ -43,19 +45,19 @@
                 td(colspan="3") Rango de edad del cliente potencial. 
                 td(colspan="3") Adaptar la comunicación y la oferta. 
               tr(style="background-color: #E9EEF5")
-                th(colspan="2") #[strong Ubicación geográfica]
+                td(colspan="2") #[strong Ubicación geográfica]
                 td(colspan="3") Lugar donde reside o desarrolla su actividad. 
                 td(colspan="3") Definir cobertura y estrategias regionales. 
               tr(style="background-color: #FFFFFF")
-                th(colspan="2") #[strong Nivel educativo]
+                td(colspan="2") #[strong Nivel educativo]
                 td(colspan="3") Formación académica alcanzada. 
                 td(colspan="3") Ajustar el nivel técnico de la comunicación. 
               tr(style="background-color: #E9EEF5")
-                th(colspan="2") #[strong Ocupación]
+                td(colspan="2") #[strong Ocupación]
                 td(colspan="3") Actividad laboral o profesional. 
                 td(colspan="3") Comprender el contexto del cliente. 
               tr(style="background-color: #FFFFFF")
-                th(colspan="2") #[strong Nivel de ingresos]
+                td(colspan="2") #[strong Nivel de ingresos]
                 td(colspan="3") Capacidad económica aproximada. 
                 td(colspan="3") Orientar la propuesta comercial. 
 
@@ -90,15 +92,15 @@
                 td(colspan="3") Problemas que el cliente desea resolver. 
                 td(colspan="3") Optimizar el proceso de ventas. 
               tr(style="background-color: #E9EEF5")
-                th(colspan="2") #[strong Intereses]
+                td(colspan="2") #[strong Intereses]
                 td(colspan="3") Temas o soluciones que llaman su atención. 
                 td(colspan="3") Herramientas de #[em marketing] digital. 
               tr(style="background-color: #FFFFFF")
-                th(colspan="2") #[strong Aspiraciones]
+                td(colspan="2") #[strong Aspiraciones]
                 td(colspan="3") Resultados que espera alcanzar. 
                 td(colspan="3") Incrementar la competitividad del negocio. 
               tr(style="background-color: #E9EEF5")
-                th(colspan="2") #[strong Beneficios esperados]
+                td(colspan="2") #[strong Beneficios esperados]
                 td(colspan="3") Valor que espera obtener con la compra. 
                 td(colspan="3") Ahorrar tiempo y mejorar la productividad. 
 
@@ -132,7 +134,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/10.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 Las variables conductuales explican cómo actúa el cliente; las psicográficas ayudan a comprender por qué actúa de esa manera. 
 
     separador
@@ -156,7 +158,7 @@
               figure
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Ejemplo aplicado. 
+              h5 Ejemplo aplicado
               p #[strong NovaMarket S.A.S.] identifica que muchos de sus clientes potenciales manifiestan dificultades para encontrar proveedores que entreguen información técnica clara y respondan oportunamente a las solicitudes de cotización.
 
 
@@ -171,7 +173,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/10.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 Los #[em pain points] representan las necesidades o problemas que el cliente desea resolver y constituyen una oportunidad para generar propuestas de valor diferenciadas. 
 
     separador
@@ -208,12 +210,12 @@
                 td Razones que impulsan su comportamiento.
                 td Resultados que espera alcanzar.
               tr(style="background-color: #FFFFFF")
-                th #[strong Responden a la pregunta]
+                td #[strong Responden a la pregunta]
                 td ¿Qué le interesa? 
                 td ¿Por qué actúa? 
                 td ¿Qué desea lograr? 
               tr(style="background-color: #E9EEF5")
-                th #[strong Utilidad en el #[em buyer persona]]
+                td #[strong Utilidad en el #[em buyer persona]]
                 td Identificar contenidos y canales de comunicación. 
                 td Comprender los impulsores de la decisión. 
                 td Orientar la propuesta de valor hacia resultados concretos. 
@@ -254,7 +256,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/18.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Reflexión del capítulo.  
+              h5 Reflexión del capítulo
               p Conocer los datos de un cliente permite identificarlo; comprender sus necesidades y expectativas permite servirle mejor. El análisis de las variables del perfil del cliente transforma la información en conocimiento para la toma de decisiones comerciales.
               p.mb-0 Cuando la organización interpreta estas variables de manera integral, puede construir propuestas de valor más pertinentes, fortalecer la relación con sus clientes potenciales y orientar sus estrategias hacia resultados sostenibles. 
 

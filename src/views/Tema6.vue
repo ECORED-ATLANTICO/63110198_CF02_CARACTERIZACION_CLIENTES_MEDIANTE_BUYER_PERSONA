@@ -42,7 +42,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/10.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 El #[em buyer persona] representa de manera estructurada al cliente ideal y facilita la planificación de estrategias comerciales centradas en sus necesidades y comportamientos. 
 
     separador
@@ -68,9 +68,9 @@
           table
             thead
               tr(style="background-color: #E4FFFB")
-                th(colspan="2") Etapa 
-                th(colspan="3") Propósito  
-                th(colspan="3") Ejemplo de acción 
+                th(colspan="2") Característica 
+                th(colspan="3") Descripción
+                th(colspan="3") Aporte para la organización 
             tbody
               tr(style="background-color: #FFFFFF")
                 td(colspan="2") #[strong Basado en información]
@@ -89,7 +89,7 @@
                 td(colspan="3") Sirve como apoyo para la toma de decisiones de #[em marketing] y ventas. 
                 td(colspan="3") Orienta acciones comerciales más efectivas.
 
-    .row.justify-content-center.z-2
+    .row.justify-content-center.z-2.mb-4
       .col-xl-10
         .tarjeta.bg-secundario-s5.p-4.py-3
           .row.justify-content-around.align-items-center
@@ -101,10 +101,12 @@
                 .col.mb-3.mb-sm-0
                   h4.mb-1 #[em Buyer persona] 
                   p.mb-0 Lo invitamos a consultar el siguiente video, en el que podrá profundizar en la temática abordada y conocer cómo se caracteriza un #[em buyer persona]. 
-                .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=6wN7nsKOlk0" target="_blank")
-                    span Ir al recurso
-                    i.fas.fa-file-download
+
+    .row.justify-content-center.z-2
+      .col-xl-10
+        figure
+          .video
+            iframe(width="1199" height="674" src="https://www.youtube.com/embed/6wN7nsKOlk0" title="Buyer persona" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
 
     separador
     #t_6_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -137,7 +139,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/10.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 El #[em buyer persona] fortalece la planeación estratégica al proporcionar información que permite comprender mejor al cliente potencial y orientar las decisiones comerciales. 
 
     separador
@@ -243,7 +245,7 @@
               figure
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Ejemplo aplicado. 
+              h5 Ejemplo aplicado
               p Antes de presentar una propuesta comercial, #[strong NovaMarket S.A.S.] identifica los objetivos de cada cliente potencial mediante entrevistas y formularios de diagnóstico, con esta información adapta sus recomendaciones, destacando cómo sus productos pueden contribuir a mejorar la exhibición de artículos deportivos, aumentar las ventas o fortalecer la experiencia de compra de los consumidores. 
 
     .row.justify-content-center.z-2
@@ -253,7 +255,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/10.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 Conocer los objetivos del #[em buyer persona] permite orientar las propuestas comerciales hacia los resultados que el cliente espera alcanzar, más que hacia las características del producto o servicio. 
 
     separador
@@ -310,7 +312,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema6/15.png", alt="" data-aos="zoom-in-down")
       .col-lg-7
-        p Las herramientas digitales de perfilamiento de clientes son aplicaciones y plataformas que permiten recopilar, organizar y analizar información relevante sobre los clientes potenciales. Su utilización facilita la construcción del buyer persona al integrar datos provenientes de diferentes puntos de contacto, como formularios, redes sociales, sitios web, sistemas de gestión comercial y campañas digitales.
+        p Las herramientas digitales de perfilamiento de clientes son aplicaciones y plataformas que permiten recopilar, organizar y analizar información relevante sobre los clientes potenciales. Su utilización facilita la construcción del #[em buyer persona] al integrar datos provenientes de diferentes puntos de contacto, como formularios, redes sociales, sitios web, sistemas de gestión comercial y campañas digitales.
         .bg-contenido-a10.rounded-4.p-4.py-3
           p.mb-0 Estas herramientas contribuyen a mejorar la precisión del perfilamiento, ya que permiten identificar patrones de comportamiento, intereses, necesidades y preferencias de los clientes potenciales. Asimismo, facilitan la actualización permanente de la información, permitiendo que las organizaciones ajusten sus estrategias comerciales conforme evolucionan las características del mercado. 
 
@@ -357,7 +359,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/18.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Reflexión del capítulo.  
+              h5 Reflexión del capítulo
               p Comprender a las personas siempre será más valioso que asumir quiénes son. El #[em buyer persona] se construye a partir del análisis de información y no de suposiciones.  
               p.mb-0 Conocer las motivaciones, necesidades y expectativas de los clientes potenciales permite desarrollar estrategias comerciales más pertinentes y construir relaciones basadas en la comprensión y el valor mutuo. 
 

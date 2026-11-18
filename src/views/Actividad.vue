@@ -125,7 +125,7 @@ export default {
         },
         {
           id: 4,
-          texto: '¿Cuál es la función principal del lead scoring?',
+          texto: '¿Cuál es la función principal del <em>lead scoring</em>?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [

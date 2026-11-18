@@ -39,7 +39,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/10.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 Una estructura organizada facilita la construcción de perfiles consistentes y útiles para la toma de decisiones comerciales. 
     
     separador
@@ -158,7 +158,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/10.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 Las variables de análisis permiten transformar información dispersa en un perfil organizado que facilita la comprensión del cliente potencial. 
 
     separador
@@ -182,7 +182,7 @@
               figure
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Ejemplo aplicado. 
+              h5 Ejemplo aplicado
               p #[strong NovaMarket S.A.S.] recopila información proveniente de entrevistas, formularios digitales, registros del CRM y analítica web. Posteriormente, el equipo de #[em marketing] identifica características comunes entre los clientes potenciales y construye perfiles que describen sus objetivos, motivaciones, necesidades y hábitos de compra, estos perfiles sirven como referencia para el diseño de campañas comerciales y contenidos especializados.
 
     .titulo-con-imagen.mb-5.z-2(data-aos="fade-right")
@@ -255,7 +255,7 @@
           p.mb-0 #[strong Nivel educativo] - Profesional 
       .col-lg-6
         LineaTiempoD.color-acento-botones
-          div(numero="1" titulo="Características generales")
+          div(numero="a." titulo="Características generales")
             ul.checklist.ms-3
               li 
                 p.mb-0 #[strong Profesión:] Diseñadora gráfica. 
@@ -268,7 +268,7 @@
               li 
                 p.mb-0 #[strong Tecnología:] Utiliza computador portátil, teléfono inteligente y herramientas digitales de diseño. 
             p.mb-0 #[strong Clave de análisis:] estos datos permiten comprender el contexto personal y profesional del perfil. 
-          div(numero="2" titulo="Motivaciones y objetivos")
+          div(numero="b." titulo="Motivaciones y objetivos")
             h5 Motivaciones
             ul.checklist.ms-3
               li 
@@ -290,7 +290,7 @@
               li 
                 p.mb-0 Ofrecer servicios de diseño con mayor valor agregado. 
             p.mb-0 #[strong Clave de análisis:] conocer qué impulsa al cliente y qué espera alcanzar facilita la construcción de propuestas de valor pertinentes. 
-          div(numero="3" titulo="Necesidades y dificultades")
+          div(numero="c." titulo="Necesidades y dificultades")
             h5 Necesidades
             ul.checklist.ms-3
               li 
@@ -312,7 +312,7 @@
               li 
                 p.mb-0 Dificultad para diferenciarse de otros diseñadores.
             p.mb-0 #[strong Clave de análisis:] relacionar necesidades y dificultades permite reconocer oportunidades para ofrecer soluciones relevantes. 
-          div(numero="4" titulo="Comportamiento de compra ")
+          div(numero="d." titulo="Comportamiento de compra ")
             ul.checklist.ms-3
               li 
                 p.mb-0 Investiga en internet antes de tomar decisiones. 
@@ -323,11 +323,11 @@
               li 
                 p.mb-0 Valora la atención personalizada y la confianza en la marca. 
             p.mb-0 #[strong Clave de análisis:] comprender cómo toma decisiones facilita la selección de estrategias de contacto y comunicación. 
-          div(numero="5" titulo="Canales de información")
+          div(numero="e." titulo="Canales de información")
             p.mb-1 María utiliza principalmente: 
             p.mb-1 Instagram · YouTube · LinkedIn · Comunidades en línea · Blogs de diseño 
             p.mb-0 #[strong Clave de análisis:] identificar los canales utilizados por el #[em buyer persona] ayuda a determinar dónde y cómo establecer la comunicación comercial. 
-          div(numero="6" titulo="Aplicación comercial")
+          div(numero="f." titulo="Aplicación comercial")
             h5 Mensaje clave para María 
             p.mb-1 “Te ayudamos a ahorrar tiempo y potenciar tu creatividad con herramientas y recursos diseñados para profesionales como tú”. 
             p.mb-1 #[strong Uso del perfil:] este #[em buyer persona] puede servir como referente para orientar estrategias de #[em marketing], comunicación y desarrollo de productos relacionadas con sus características y necesidades. 
@@ -344,7 +344,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/18.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Reflexión del capítulo.  
+              h5 Reflexión del capítulo
               p.mb-0 Conocer al cliente no consiste en imaginar quién es, sino en comprenderlo a partir de la información que revela su realidad. Las metodologías de #[em buyer persona] permiten transformar datos en conocimiento útil para la toma de decisiones comerciales. Cuando los perfiles se construyen con información objetiva y representan adecuadamente a los clientes potenciales, las organizaciones fortalecen su capacidad para establecer relaciones más pertinentes y generar propuestas de valor alineadas con las necesidades del mercado. 
 
 

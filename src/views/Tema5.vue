@@ -39,7 +39,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/10.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 El análisis de prospectos transforma la información recopilada durante la prospectación en un insumo para la toma de decisiones comerciales. 
     
     separador
@@ -72,20 +72,20 @@
           SlyderA(tipo="b").p-4.bg-white.rounded-4.py-5
             div
               h5 Afinidad con el mercado objetivo
-              p #[strong Aspecto evaluado]: Correspondencia entre las características, necesidades y condiciones del prospecto y el segmento de mercado definido por la organización. 
-              p #[strong Finalidad]: Priorizar clientes potenciales que presenten mayor alineación con el perfil de cliente y con la estrategia comercial establecida. 
+              p #[strong Aspecto evaluado]: correspondencia entre las características, necesidades y condiciones del prospecto y el segmento de mercado definido por la organización. 
+              p #[strong Finalidad]: priorizar clientes potenciales que presenten mayor alineación con el perfil de cliente y con la estrategia comercial establecida. 
             div
               h5 Nivel de interés
-              p #[strong Aspecto evaluado]: Grado de interacción del prospecto con los canales de comunicación, contenidos y acciones comerciales de la organización. 
-              p #[strong Finalidad]: Identificar prospectos con mayor disposición para recibir información, establecer contacto y avanzar en el proceso comercial. 
+              p #[strong Aspecto evaluado]: grado de interacción del prospecto con los canales de comunicación, contenidos y acciones comerciales de la organización. 
+              p #[strong Finalidad]: identificar prospectos con mayor disposición para recibir información, establecer contacto y avanzar en el proceso comercial. 
             div
               h5 Capacidad de compra
-              p #[strong Aspecto evaluado]: Posibilidad del prospecto de adquirir los productos o servicios ofrecidos, considerando sus condiciones y necesidades comerciales. 
-              p #[strong Finalidad]: Orientar los esfuerzos hacia oportunidades que presenten condiciones favorables y posibilidades reales de conversión. 
+              p #[strong Aspecto evaluado]: posibilidad del prospecto de adquirir los productos o servicios ofrecidos, considerando sus condiciones y necesidades comerciales. 
+              p #[strong Finalidad]: orientar los esfuerzos hacia oportunidades que presenten condiciones favorables y posibilidades reales de conversión. 
             div
               h5 Potencial de crecimiento
-              p #[strong Aspecto evaluado]: Posibilidad de desarrollar y ampliar la relación comercial con el prospecto a corto, mediano o largo plazo. 
-              p #[strong Finalidad]: Favorecer la identificación de oportunidades con posibilidades de generar relaciones comerciales sostenibles y de mayor valor para la organización. 
+              p #[strong Aspecto evaluado]: posibilidad de desarrollar y ampliar la relación comercial con el prospecto a corto, mediano o largo plazo. 
+              p #[strong Finalidad]: favorecer la identificación de oportunidades con posibilidades de generar relaciones comerciales sostenibles y de mayor valor para la organización. 
 
     .bg-contenido-a10.rounded-4.p-4
       p.mb-0 La aplicación conjunta de estos criterios facilita una selección de prospectos coherente con las oportunidades del mercado y los objetivos comerciales de la organización. 
@@ -115,7 +115,7 @@
               figure
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Ejemplo aplicado. 
+              h5 Ejemplo aplicado
               p #[strong NovaMarket S.A.S.] revisa periódicamente su base de clientes potenciales para establecer prioridades comerciales. Los prospectos que pertenecen a distribuidores de artículos deportivos presentan alta interacción con los canales digitales y cuentan con capacidad para realizar compras recurrentes son clasificados como prioridad estratégica.
               p.mb-0 En consecuencia, reciben atención personalizada, seguimiento permanente y propuestas comerciales adaptadas a sus necesidades, mientras que los demás prospectos continúan en procesos de acompañamiento hasta demostrar un mayor potencial comercial. 
 
@@ -141,11 +141,10 @@
               figure
                 img.imgw-190.mb-4.mb-sm-0(src="@/assets/curso/common/mic.png", alt="")
             .col-sm-8.col-lg-8
-              p A continuación, lo invitamos a consultar el siguiente pódcast:
               TarjetaAudio.mb-3(
                 texto="Decisiones comerciales estratégicas"
                 tiempo
-                :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
+                :audio="require_src('@/assets/curso/podcast/63110198_CF02_Podcast_02.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
 
     .row.justify-content-center.z-2
@@ -156,8 +155,8 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema1/18.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Reflexión del capítulo.  
-              p.mb-0 La prospectación es más efectiva cuando el contacto con los clientes potenciales se fundamenta en la escucha, la oportunidad y la construcción de confianza. Cada interacción representa una oportunidad para fortalecer la relación comercial y avanzar hacia decisiones que beneficien tanto a la organización como al cliente. 
+              h5 Reflexión del capítulo
+              p.mb-0 La toma de decisiones comerciales exige analizar la información con objetividad y actuar de manera coherente con los objetivos de la organización. Priorizar estratégicamente a los clientes potenciales permite optimizar los recursos disponibles, fortalecer las relaciones comerciales y construir resultados sostenibles a largo plazo. 
 
 </template>
 
