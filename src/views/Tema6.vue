@@ -129,7 +129,7 @@
               figure
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Ejemplo aplicado. 
+              h5 Ejemplo aplicado
               p #[strong NovaMarket S.A.S.] desarrolla diferentes perfiles de #[em buyer persona] para los segmentos que atiende, como distribuidores deportivos, gimnasios y tiendas especializadas, esta información orienta la elaboración de campañas digitales, la selección de canales de comunicación y la creación de propuestas comerciales ajustadas a las necesidades de cada segmento, incrementando la efectividad de sus acciones comerciales.
 
     .row.justify-content-center.z-2

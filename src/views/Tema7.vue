@@ -258,16 +258,16 @@
           div(numero="a." titulo="Características generales")
             ul.checklist.ms-3
               li 
-                p.mb-0 #[strong Profesión:] Diseñadora gráfica. 
+                p.mb-0 #[strong Profesión] - Diseñadora gráfica. 
               li 
-                p.mb-0 #[strong Ingresos:] $2.500.000 - $3.500.000 COP. 
+                p.mb-0 #[strong Ingresos] - $2.500.000 - $3.500.000 COP. 
               li 
-                p.mb-0 #[strong Educación:] Profesional. 
+                p.mb-0 #[strong Educación] - Profesional. 
               li 
-                p.mb-0 #[strong Estilo de vida:] Activa, organizada; le gusta aprender y trabajar desde casa o espacios flexibles. 
+                p.mb-0 #[strong Estilo de vida] - Activa, organizada; le gusta aprender y trabajar desde casa o espacios flexibles. 
               li 
-                p.mb-0 #[strong Tecnología:] Utiliza computador portátil, teléfono inteligente y herramientas digitales de diseño. 
-            p.mb-0 #[strong Clave de análisis:] estos datos permiten comprender el contexto personal y profesional del perfil. 
+                p.mb-0 #[strong Tecnología] - Utiliza computador portátil, teléfono inteligente y herramientas digitales de diseño. 
+            p.mb-0 #[strong Clave de análisis] - estos datos permiten comprender el contexto personal y profesional del perfil. 
           div(numero="b." titulo="Motivaciones y objetivos")
             h5 Motivaciones
             ul.checklist.ms-3
