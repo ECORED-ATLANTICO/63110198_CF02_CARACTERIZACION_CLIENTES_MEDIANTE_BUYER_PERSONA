@@ -411,7 +411,7 @@ export default {
             {
               id: 'a',
               texto: 'Edad, ubicación, ocupación y nivel educativo.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
@@ -427,7 +427,7 @@ export default {
             {
               id: 'd',
               texto: 'Costos logísticos de distribución internacional.',
-              esCorrecta: true,
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -435,7 +435,8 @@ export default {
         },
         {
           id: 14,
-          texto: '¿Qué representan los pain points del cliente potencial?',
+          texto:
+            '¿Qué representan los <em>pain points</em> del cliente potencial?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [

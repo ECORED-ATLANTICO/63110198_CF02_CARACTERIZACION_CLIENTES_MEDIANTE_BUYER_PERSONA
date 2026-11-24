@@ -11,7 +11,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4(data-aos="fade-down")
         div.banner-text.shadow.bg-secundario-s5.mb-3
-          p.mb-0 El #[em buyer persona] es una representación semificticia de la cliente ideal construida a partir del análisis de información relacionada con sus características, comportamientos, necesidades y motivaciones.  
+          p.mb-0 El #[em buyer persona] es una representación semificticia del cliente ideal, construida a partir del análisis de información relacionada con sus características, comportamientos, necesidades y motivaciones.  
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
@@ -171,28 +171,28 @@
                 img.imgw-95(src='@/assets/curso/tema6/7.png' alt='')
             h5.mb-4.text-center Optimización de recursos
             p.mb-0 Busca reducir tiempo, costos o esfuerzos. 
-            p.mb-0 #[strong Ejemplo:] Automatizar procesos comerciales mediante herramientas digitales. 
+            p.mb-0 #[strong Ejemplo:] automatizar procesos comerciales mediante herramientas digitales. 
           .tarjeta.tarjeta--gris.p-4.pt-5.bg-sistema-h
             .row.justify-content-center.mb-3
               .col-6.col-sm-4.col-xl-5
                 img.imgw-95(src='@/assets/curso/tema6/8.png' alt='')
             h5.mb-4.text-center Crecimiento del negocio 
             p.mb-0 Busca incrementar las ventas o mejorar los resultados. 
-            p.mb-0 #[strong Ejemplo:] Implementar estrategias para captar nuevos clientes. 
+            p.mb-0 #[strong Ejemplo:] implementar estrategias para captar nuevos clientes. 
           .tarjeta.tarjeta--gris.p-4.pt-5.bg-sistema-h
             .row.justify-content-center.mb-3
               .col-6.col-sm-4.col-xl-5
                 img.imgw-95(src='@/assets/curso/tema6/9.png' alt='')
             h5.mb-4.text-center Solución de necesidades 
             p.mb-0 Busca resolver una situación o necesidad específica. 
-            p.mb-0 #[strong Ejemplo:] Encontrar un proveedor confiable para abastecer su negocio. 
+            p.mb-0 #[strong Ejemplo:] encontrar un proveedor confiable para abastecer su negocio. 
           .tarjeta.tarjeta--gris.p-4.pt-5.bg-sistema-h
             .row.justify-content-center.mb-3
               .col-6.col-sm-4.col-xl-5
                 img.imgw-95(src='@/assets/curso/tema6/10.png' alt='')
             h5.mb-4.text-center Desarrollo profesional 
             p.mb-0 Busca fortalecer sus conocimientos o competencias. 
-            p.mb-0 #[strong Ejemplo:] Capacitarse en estrategias de #[em marketing] y ventas.             
+            p.mb-0 #[strong Ejemplo:] capacitarse en estrategias de #[em marketing] y ventas.             
       .col-lg-4.d-none.d-lg-block
         figure
           img.imgw-324.mb-4.mb-lg-0(src='@/assets/curso/tema6/11.png', alt='')

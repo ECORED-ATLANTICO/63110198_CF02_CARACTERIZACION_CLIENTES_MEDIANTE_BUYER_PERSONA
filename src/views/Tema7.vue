@@ -27,7 +27,7 @@
       .col-lg-7
         p La estructura de una metodología de #[em buyer persona] corresponde a la organización de los elementos que conforman el perfil del cliente potencial. Aunque cada organización puede adaptar esta estructura a sus necesidades, generalmente incluye información relacionada con la identificación del perfil, las características generales del cliente, sus motivaciones, objetivos, necesidades, dificultades y comportamientos durante el proceso de compra.  
         .bg-primario-p5.p-4.rounded-4.py-3
-          p.mb-0 Una estructura organizada facilita el análisis de la información y permite que diferentes áreas de la organización utilicen el mismo referente para diseñar estrategias comerciales y de comunicación,  asimismo, favorece la actualización del perfil cuando cambian las condiciones del mercado o evolucionan las necesidades de los clientes. En el ejemplo del acápite “7.5 Representación de arquetipos” podrá ver también, como la estructura definida conduce a la presentación de la información de dicho ejemplo. 
+          p.mb-0 Una estructura organizada facilita el análisis de la información y permite que diferentes áreas de la organización utilicen el mismo referente para diseñar estrategias comerciales y de comunicación,  asimismo, favorece la actualización del perfil cuando cambian las condiciones del mercado o evolucionan las necesidades de los clientes. En el ejemplo del acápite “7.5 Representación de arquetipos” podrá revisar también, como la estructura definida conduce a la presentación de la información de dicho ejemplo. 
       .col-sm-8.col-lg-5
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema7/3.png", alt="")
@@ -247,12 +247,12 @@
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
         .bg-secundario-s5.p-4.rounded-4.py-5
           h5 Perfil de María Gómez 
-          p.mb-0 #[strong Nombre] - María Gómez 
-          p.mb-0 #[strong Edad] - 32 años 
-          p.mb-0 #[strong Ocupación] - Diseñadora gráfica independiente 
-          p.mb-0 #[strong Ubicación] - Medellín, Colombia 
-          p.mb-0 #[strong Estado civil] - Soltera 
-          p.mb-0 #[strong Nivel educativo] - Profesional 
+          p.mb-0 #[strong Nombre] - María Gómez.
+          p.mb-0 #[strong Edad] - 32 años.  
+          p.mb-0 #[strong Ocupación] - Diseñadora gráfica independiente.
+          p.mb-0 #[strong Ubicación] - Medellín, Colombia.
+          p.mb-0 #[strong Estado civil] - Soltera.
+          p.mb-0 #[strong Nivel educativo] - Profesional.
       .col-lg-6
         LineaTiempoD.color-acento-botones
           div(numero="a." titulo="Características generales")

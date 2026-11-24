@@ -6,7 +6,7 @@
     p.mb-5 Además, el componente aborda las metodologías para construir #[em buyer persona] y analizar las variables que conforman el perfil del cliente potencial, integrando aspectos demográficos, motivacionales, conductuales y psicográficos. Estos conocimientos permiten fortalecer la toma de decisiones comerciales, diseñar estrategias de relacionamiento más pertinentes y comprender las necesidades, expectativas y comportamientos de los clientes potenciales para apoyar procesos de #[em marketing] y ventas con un enfoque estratégico.
 
     .row.justify-content-center
-      .col-12
+      .col-12.col-xl-10
         figure
           img.mb-5(src="@/assets/curso/sintesis.svg", alt="El componente formativo Perfilamiento estratégico,  aborda la prospectación comercial, calificación y priorización de prospectos, lead scoring, embudo de conversión y construcción del buyer persona como fundamentos para analizar clientes potenciales y orientar decisiones y estrategias comerciales.")
       .col-auto
